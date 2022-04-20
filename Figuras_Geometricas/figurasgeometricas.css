@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    text-align: center;
+}
+.cuadrado{
+    border-bottom-left-radius: 30px;
+    margin-left: 400px;
+    margin-top: 30px;
+    position: relative;
+    border-radius: 30px;
+    padding-top: 30px;
+    height: 150px;
+    width:500px;
+
+    text-align: center;
+    background-color: tomato;
+}
+
+.triangulo{
+    margin-left: 400px;
+    margin-top: 30px;
+    position: relative;
+    background-color: yellow;
+    border-radius: 30px;
+    padding-top: 30px;
+    height: 150px;
+    width:500px;
+
+    text-align: center;
+}
